@@ -1,19 +1,34 @@
 * {
     padding: 0;
+
     margin: 0;
+
     font-size: 40px;
+
 }
 
 .box-one {
     background-color: red;
-    border: 20px solid purple;
+
+    border: 0 solid purple;
+
     padding: 20px;
+
+    border-width: 20px;
+
     margin: 20px;
+
 }
 
 .box-two {
     background-color: blue;
-    border: 20px solid yellow;
+
+    border: 0 solid yellow;
+
     padding: 20px;
+
+    border-width: 20px;
+
     margin: 20px;
+    
 } 
